@@ -1,0 +1,2 @@
+all:
+	gcc main.c map_control.c map_control2.c map_control3.c get_map.c prcs_map.c so_long_utils.c valid_path_control.c get_next_line/get_next_line.a minilibx/libmlx.a -framework AppKit -framework OpenGL
